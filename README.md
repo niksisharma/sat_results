@@ -1,4 +1,3 @@
-# sat_results
 Create an application with the following features:
 
 - Must have menu to select option from 
